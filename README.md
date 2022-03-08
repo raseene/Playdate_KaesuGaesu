@@ -55,10 +55,10 @@ Inside Playdate with C( https://sdk.play.date/1.9.0/Inside%20Playdate%20with%20C
 
 背景画像・BGMに、以下のサイトより素材を使用させていただきました。
 
-・背景画像
+・背景画像  
 フリー素材ぱくたそ　　https://www.pakutaso.com/
 
-・BGM
+・BGM  
 田中サムシングさん　　https://dova-s.jp/_contents/author/profile030.html
 
 どうもありがとうございます。
