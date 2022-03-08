@@ -1,0 +1,5 @@
+name=かえすがえす
+author=SoRaseene
+description=ひっくり返しパズル「かえすがえす」
+bundleID=jp.so_raseene.kaesu
+imagePath=system/

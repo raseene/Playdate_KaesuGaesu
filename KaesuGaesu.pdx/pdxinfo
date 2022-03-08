@@ -1,0 +1,7 @@
+name=かえすがえす
+author=SoRaseene
+description=ひっくり返しパズル「かえすがえす」
+bundleID=jp.so_raseene.kaesu
+imagePath=system/
+pdxversion=10500
+buildtime=700052206
