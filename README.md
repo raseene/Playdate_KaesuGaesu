@@ -1,6 +1,6 @@
 # ひっくり返しパズル　かえすがえす
 
-Playdate(https://play.date/jp)用の、お手軽パズルゲームです。
+Playdate( https://play.date/jp )用の、お手軽パズルゲームです。
 パネルをひっくり返して、画像を完成させましょう。
 
 ![Screenshot](http://raseene.asablo.jp/blog/img/2022/03/08/6252d1.png)
@@ -35,7 +35,7 @@ Playdate(https://play.date/jp)用の、お手軽パズルゲームです。
 
 ## 実行（Windows）
 
-Playdate SDK(https://play.date/jp/dev)をインストール後、
+Playdate SDK( https://play.date/jp/dev )をインストール後、
 PlaydateSimulatorで KaesuGaesu.pdxフォルダをオープンしてください。
 
 Windows以外の環境では、プロジェクトをビルドして実行バイナリを作成する必要があります。
@@ -56,10 +56,10 @@ Inside Playdate with C( https://sdk.play.date/1.9.0/Inside%20Playdate%20with%20C
 背景画像・BGMに、以下のサイトより素材を使用させていただきました。
 
 ・背景画像
-フリー素材ぱくたそ	https://www.pakutaso.com/
+フリー素材ぱくたそ　　https://www.pakutaso.com/
 
 ・BGM
-田中サムシングさん	https://dova-s.jp/_contents/author/profile030.html
+田中サムシングさん　　https://dova-s.jp/_contents/author/profile030.html
 
 どうもありがとうございます。
 
